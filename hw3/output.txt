@@ -1,0 +1,33 @@
+Training Autoencoder
+Training Step: 1000 | Loss: 0.03586513564201966
+Training Step: 2000 | Loss: 0.025815700379825137
+Training Step: 3000 | Loss: 0.00989597494458291
+Training Step: 4000 | Loss: 0.0038440512770210617
+Training Step: 5000 | Loss: 0.002376505050334779
+Training Step: 6000 | Loss: 0.001699817963269585
+Training Step: 7000 | Loss: 0.0013131151009632314
+Training Step: 8000 | Loss: 0.001064844374194065
+Training Step: 9000 | Loss: 0.0008929045400897017
+Training Step: 10000 | Loss: 0.000767253189959226
+
+Testing Autoencoder (8->3->8)
+Input: 00000001 | Output: 00000001
+Input: 00000010 | Output: 00000010
+Input: 00000100 | Output: 00000100
+Input: 00001000 | Output: 00001000
+Input: 00010000 | Output: 00010000
+Input: 00100000 | Output: 00100000
+Input: 01000000 | Output: 01000000
+Input: 10000000 | Output: 10000000
+Correct: 8/8
+
+Testing Autoencoder (8->3)
+Input: 00000001 | Output: 000
+Input: 00000010 | Output: 010
+Input: 00000100 | Output: 110
+Input: 00001000 | Output: 101
+Input: 00010000 | Output: 001
+Input: 00100000 | Output: 111
+Input: 01000000 | Output: 011
+Input: 10000000 | Output: 100
+Unique: 8/8
