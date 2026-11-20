@@ -1,0 +1,19 @@
+Training Autoencoder
+Training Step 20: | Loss: 2.0689897537231445
+Training Step 40: | Loss: 1.9833993911743164
+Training Step 60: | Loss: 1.8628909587860107
+Training Step 80: | Loss: 1.7021678686141968
+Training Step 100: | Loss: 1.5239547491073608
+Training Step 120: | Loss: 1.3540236949920654
+Training Step 140: | Loss: 1.2035256624221802
+Training Step 160: | Loss: 1.0736781358718872
+Training Step 180: | Loss: 0.9635413885116577
+Training Step 200: | Loss: 0.8711662888526917
+Training Step 220: | Loss: 0.7934538722038269
+Training Step 240: | Loss: 0.7249500155448914
+Training Step 260: | Loss: 0.6564346551895142
+Training Step 280: | Loss: 0.5815057754516602
+Training Step 300: | Loss: 0.5049558281898499
+Training Step 320: | Loss: 0.4325123727321625
+Training Step 340: | Loss: 0.366646409034729
+All eight inputs matches training output at step 341

@@ -1,14 +1,14 @@
 Training Autoencoder
-Training Step: 1000 | Loss: 0.03586513564201966
-Training Step: 2000 | Loss: 0.025815700379825137
-Training Step: 3000 | Loss: 0.00989597494458291
-Training Step: 4000 | Loss: 0.0038440512770210617
-Training Step: 5000 | Loss: 0.002376505050334779
-Training Step: 6000 | Loss: 0.001699817963269585
-Training Step: 7000 | Loss: 0.0013131151009632314
-Training Step: 8000 | Loss: 0.001064844374194065
-Training Step: 9000 | Loss: 0.0008929045400897017
-Training Step: 10000 | Loss: 0.000767253189959226
+Training Step: 1000 | Loss: 0.044224710575039836
+Training Step: 2000 | Loss: 0.029169141087288172
+Training Step: 3000 | Loss: 0.01848817043857083
+Training Step: 4000 | Loss: 0.007625400856158818
+Training Step: 5000 | Loss: 0.003912036742942307
+Training Step: 6000 | Loss: 0.002637939046451131
+Training Step: 7000 | Loss: 0.001974920255169164
+Training Step: 8000 | Loss: 0.0015684822062719177
+Training Step: 9000 | Loss: 0.0012950968825999219
+Training Step: 10000 | Loss: 0.0010994667086084134
 
 Testing Autoencoder (8->3->8)
 Input: 00000001 | Output: 00000001
